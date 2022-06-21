@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\bin\Debug\netcoreapp3.1\SortStringArray.exe
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\bin\Debug\netcoreapp3.1\SortStringArray.deps.json
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\bin\Debug\netcoreapp3.1\SortStringArray.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\bin\Debug\netcoreapp3.1\SortStringArray.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\bin\Debug\netcoreapp3.1\SortStringArray.dll
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\bin\Debug\netcoreapp3.1\SortStringArray.pdb
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.dll
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.pdb
+C:\Users\HP\Desktop\Programmer\c#\SortStringArray\SortStringArray\obj\Debug\netcoreapp3.1\SortStringArray.genruntimeconfig.cache
